@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Naresh
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate with Gunjan
+- 💞️ I’m looking to collaborate with multinational Company
 - 📫 How to reach me ...
 
 <!---
