@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naresh
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning dsa in cpp and web dev
 - 💞️ I’m looking to collaborate with multinational Company
 - 📫 How to reach me ...
 
