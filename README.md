@@ -4,7 +4,7 @@
 ---
 
 # 💫 About Me:
-💻 Computer Science student with strong foundations in Data Structures & Algorithms, Web Development, and Problem-Solving.<br>🚀 Passionate about building interactive web experiences and learning scalable backend development.<br>🧠 Solved 400+ DSA problems on LeetCode & CodeChef.<br>🌱 Currently learning Node.js, Express.js, and Backend Architecture.<br>🎯 My goal is to become a Full-Stack Developer and build impactful products.
+💻 Computer Science student with strong foundations in Data Structures & Algorithms, Web Development, and Problem-Solving.<br>🚀 Passionate about building interactive web experiences and learning scalable backend development.<br>🧠 Solved 500+ DSA problems on LeetCode & CodeChef.<br>🌱 Currently learning Node.js, Express.js, and Backend Architecture.<br>🎯 My goal is to become a Full-Stack Developer and build impactful products.
 
 
 ## 🌐 Socials:
